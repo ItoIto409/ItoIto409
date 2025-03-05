@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola. 
+
+Soy Jerónimo Bermúdez, apasionado por el diseño gráfico y el desarrollo de aplicaciones.
+Técnologías que conozco:
+
+ - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
