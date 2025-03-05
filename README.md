@@ -21,7 +21,7 @@ Actualmente interesado en el diseño de videojuegos y de páginas web.
 Me puedes contactar en:
 
 [<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30px">](https://www.instagram.com/hidro_ito/)
-[<img src="file:///C:/Users/jeron/Downloads/linkedin-svgrepo-com.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
+[<img src="https://github.com/ItoIto409/Assets/blob/main/linkedin-svgrepo-com.svg" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
 
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
