@@ -22,7 +22,7 @@ Me puedes contactar en:
 
 [<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30px">](https://www.instagram.com/hidro_ito/)
 [<img src="https://simpleicons.org/icons/x.svg" alt="Twitter" width="30px">]((https://x.com/owowli))
-[<img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jerónimo-bermúdez-506968267/)
+[<img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
 
 
 <!--
