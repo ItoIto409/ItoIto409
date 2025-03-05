@@ -20,7 +20,7 @@ Actualmente interesado en el diseño de videojuegos y de páginas web.
 
 Me puedes contactar en:
 
-[<img src="![image](https://th.bing.com/th/id/OIP.rSpqG5HM5K3TMNdjecz2ygAAAA?rs=1&pid=ImgDetMain)" width="30px">](https://www.instagram.com/hidro_ito/)
+[<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30px">](https://www.instagram.com/hidro_ito/)
 [<img src="![image](https://icon-library.com/images/linkedin-icon-svg/linkedin-icon-svg-2.jpg)" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
 
 <!--
