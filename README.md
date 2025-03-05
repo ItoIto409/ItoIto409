@@ -20,10 +20,8 @@ Actualmente interesado en el diseño de videojuegos y de páginas web.
 
 Me puedes contactar en:
 
-[<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30px">](https://www.instagram.com/hidro_ito/)
-[<img src="https://simpleicons.org/icons/x.svg" alt="Twitter" width="30px">]((https://x.com/owowli))
-[<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3Yy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1YzMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNiAyLjA2IDAgMCAxLTIuMDYzLTIuMDY1YTIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg==" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
-
+[<img src="![image](https://github.com/user-attachments/assets/e505b035-82e2-4833-8d07-0e0730eff9ae)" width="30px">](https://www.instagram.com/hidro_ito/)
+[<img src="![image](https://github.com/user-attachments/assets/1c421433-8ce8-42f2-b895-c6c3c7412060)" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/tu-usuario)
 
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
