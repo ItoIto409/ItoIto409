@@ -14,6 +14,17 @@ Estas son algunas técnologías que conozco: <br>
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)<br>
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)<br>
 
+Y creciendo...
+
+Actualmente interesado en el diseño de videojuegos y de páginas web.
+
+Me puedes contactar en:
+
+[<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30px">](https://www.instagram.com/hidro_ito/)
+[<img src="https://simpleicons.org/icons/x.svg" alt="Twitter" width="30px">]((https://x.com/owowli))
+[<img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jerónimo-bermúdez-506968267/)
+
+
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
