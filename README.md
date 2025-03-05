@@ -1,6 +1,6 @@
 ## Hola. 
 
-Soy Jerónimo Bermúdez, apasionado por el diseño gráfico y el desarrollo de aplicaciones.
+Soy Jerónimo Bermúdez, apasionado por el diseño gráfico y el desarrollo de aplicaciones. <br>
 Técnologías que conozco:
 
  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
