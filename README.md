@@ -20,8 +20,8 @@ Actualmente interesado en el diseño de videojuegos y de páginas web.
 
 Me puedes contactar en:
 
-[<img src="![image](https://github.com/user-attachments/assets/e505b035-82e2-4833-8d07-0e0730eff9ae)" width="30px">](https://www.instagram.com/hidro_ito/)
-[<img src="![image](https://github.com/user-attachments/assets/1c421433-8ce8-42f2-b895-c6c3c7412060)" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
+[<img src="![image](https://th.bing.com/th/id/OIP.rSpqG5HM5K3TMNdjecz2ygAAAA?rs=1&pid=ImgDetMain)" width="30px">](https://www.instagram.com/hidro_ito/)
+[<img src="![image](https://icon-library.com/images/linkedin-icon-svg/linkedin-icon-svg-2.jpg)" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/jer%C3%B3nimo-berm%C3%BAdez-506968267/)
 
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
