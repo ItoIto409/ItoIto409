@@ -1,9 +1,10 @@
 ## Hola. 
 
 Soy Jerónimo Bermúdez, apasionado por el diseño gráfico y el desarrollo de aplicaciones. <br>
-Técnologías que conozco:
+Estas son algunas técnologías que conozco:
 
- - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org)
 
 <!--
 **ItoIto409/ItoIto409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
